@@ -1,0 +1,13 @@
+This project is a simple To Do List implemented in C++. It allows users to perform the following operations:
+
+1. Add Task: Users can add a new task by providing a description and a category.
+
+2. View Tasks: Users can view all the tasks they have added, along with their status (completed or pending).
+
+3. Mark Task as Completed: Users can mark a specific task as completed by entering its number.
+
+4. Delete Task: Users can delete a specific task by entering its number.
+
+5. Filter Tasks by Category: Users can filter and view tasks based on a specific category.
+
+The system uses a vector to store tasks and provides a simple menu-driven interface for interaction. Each task is represented by a 'Task' class that includes a description, category, and completion status. The project demonstrates basic operations on a list of tasks, such as adding, viewing, updating, and deleting items, using standard C++ libraries and data structures.
