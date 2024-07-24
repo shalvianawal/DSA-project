@@ -1,0 +1,25 @@
+This project is a simple number guessing game written in C++. The game allows users to:
+
+1. Enter Their Name: Players start by providing their name.
+
+2. Select Difficulty Level: Players choose from three difficulty levels (Easy, Medium, Hard), which determine the range of numbers and the number of attempts allowed:
+
+Easy: Numbers between 0-49 with 10 attempts.
+
+Medium: Numbers between 0-99 with 6 attempts.
+
+Hard: Numbers between 0-199 with 4 attempts.
+
+3. Guess the Number: Players try to guess a randomly generated number within the chosen range. They receive feedback on their guesses, and they have the option to use hints to get closer to the correct number.
+
+4. Hints System: Each player starts with 3 hints. Hints provide information on how close the guess is to the actual number. Players earn extra hints after every three successful games.
+
+5. Leader Board: The game tracks players' scores and remaining hints, displaying a leaderboard that shows the performance of all players who have played the game.
+
+The game includes a menu that allows players to:
+
+Play the game.
+View the leaderboard.
+Exit the game.
+
+The game logic ensures fair play and provides a rewarding experience by giving hints and bonus hints based on the player's performance. The code is organized to handle different game scenarios and provides feedback to the user at each step.
