@@ -1,0 +1,35 @@
+This project is a simple social network in C++. It allows users to create profiles, make friends, send messages, and create groups. The main features include user management, friendship management, messaging, and group functionalities.
+
+Features
+
+1. User Management:
+
+	Add User: Create new user profiles with details like username, first name, last name, 	age, and gender.
+
+	Display All Users: View all registered users and their basic information.
+	
+2. Friendship Management:
+
+	Make Friends: Establish friendships between users.
+
+	Display All Friendships: Show all existing friendships.
+
+3. Messaging:
+
+	Send Message: Send direct messages between friends.
+
+	Display All Messages: View all sent and received messages.
+
+4. Group Management:
+
+	Create Group: Form new groups with unique group names.
+
+	Add Member to Group: Add users to existing groups.
+
+	Display All Groups: List all groups and their members.
+
+	Send Message to Group: Broadcast messages to all members of a group.
+
+Sample Interaction
+
+The program operates through a menu-driven interface where users can select options to perform various actions. For instance, users can add new profiles, establish friendships, send messages, and manage groups through simple inputs. Each action provides immediate feedback and displays relevant information, making it easy to interact with the system.
